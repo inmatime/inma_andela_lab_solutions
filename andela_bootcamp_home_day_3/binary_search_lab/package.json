@@ -1,0 +1,14 @@
+{
+  "name": "andela_bootcamp_day_one_lab",
+  "version": "1.0.0",
+  "description": "Binary search",
+
+
+  "dependencies": {
+    "chai": "*"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
